@@ -1,1 +1,1 @@
-# Ini adalah repositori untuk latihan
+# Ini adalah repositori untuk latihan pertama
