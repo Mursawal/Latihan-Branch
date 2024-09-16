@@ -1,2 +1,3 @@
-# Ini adalah repositori untuk latihan
-Git hub itu keren loh
+# Ini adalah repositori untuk latihan pertama
+Git hub itu asik loh
+
